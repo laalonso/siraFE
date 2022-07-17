@@ -1,0 +1,36 @@
+{
+  "data":[
+          {
+           "id": 1,
+           "nombre": "Maestría en Computación Aplicada",
+            "descripcion": "Adquiere conocimientos avanzados en tecnologías emergentes: Ingeniería de Software, Sistemas Distribuidos, Bases de Datos, inteligencia artificial y TIC’s en la educación.",
+            "clave": "MCA-2941",
+            "vigencia": "Julio-2029",
+            "abreviatura": "MCA"
+          },
+          {
+            "id": 2,
+            "nombre": "Maestría en Redes y Sistemas Integrados Presencial",
+            "descripcion": "Adquiere una visión integral y sólida en el uso de la tecnología para: la construcción y diseño de sistemas computacionales, el manejo de datos y la administración de redes." ,
+            "clave": "MRYSI-020MEP",
+            "vigencia": "Mayo-2028",
+            "abreviatura": "MRYSI-P"
+          },
+          {
+            "id": 3,
+            "nombre": "Diplomado en Programacion Avanzada",
+            "descripcion": "En este diplomado se utilizará el lenguaje de programación JAVA y un framework MVC para el desarrollo de aplicaciones web interactivas y responsivas",
+            "clave": "DPA-12001",
+            "vigencia": "Mayo-2028",
+            "abreviatura": "DPA"
+          },
+          {
+            "id": 4,
+            "nombre": "Maestría en Redes y Sistemas Integrados en Línea",
+            "descripcion": "Adquiere una visión integral y sólida en el uso de la tecnología para: la construcción y diseño de sistemas computacionales, el manejo de datos y la administración de redes desde la modalidad en Línea a través de las plataformas que te brinda LANIA" ,
+            "clave": "MRYSI-L9310",
+            "vigencia": "Agosto-2029",
+            "abreviatura": "MRYSI-L"
+          }
+        ]
+}
